@@ -48,4 +48,6 @@ To view methodology and calculations for rolling averages in Colab: [![Open In C
 ## Summary and Next Steps 
 These findings pose some considerations for Maryland's Department of Health in how they can ensure an effective Covid response. The analysis shows that both weekly moving averages for hospitalizations and deaths are beginning to increase again. If deaths are related to hospitalizations, it's important for the DoH to implement responses that keep people out of hospitals in the first place (developing severe symptoms for which medical treatment is needed). Testing doesn't appear to reduce hospitalizations or deaths (based solely on the variables investigated). Thus, it doesn't appear to be a way to keep people from having to seek medical help. What the data does show is that from July to November, the rolling averages for deaths and hospitalizations were at their lows. This could indicate a reference point of the DoH to implement again (lockdowns, closed businesses, etc).
 
+In our final project, we explore further characteristics of the disease in Maryland, predictors of deaths using linear regression, and where infections occur using clusters.
+
 
