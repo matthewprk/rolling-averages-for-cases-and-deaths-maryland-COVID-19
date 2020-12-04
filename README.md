@@ -20,6 +20,8 @@ Findings from my mini project are meant to be used in conjunction with my group 
 
 ### Data Answer
 - Metric explored: Weekly Simple Moving Average 
+
+
 ![alt text](https://github.com/matthewprk/rolling-averages-for-deaths-testing-hospitalizations-maryland-COVID-19/blob/main/SMA.png) 
 
 
