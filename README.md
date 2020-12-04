@@ -29,19 +29,15 @@ These graphs show the weekly simple moving averages for deaths, tests, and hospi
 
 ![alt text](https://github.com/matthewprk/rolling-averages-for-deaths-testing-hospitalizations-maryland-COVID-19/blob/main/Screen%20Shot%202020-12-03%20at%2010.48.04%20PM.png) 
 
+- From these graphs we can determine that:
+  - The highest weekly moving average of deaths, 54.57, occurred on 4/30/2020.
+  - The higest weekly moving average of tests, 42.3km occurred on 11/26/2020.
+  - The highest weekly moving average of hospitalizations, 1673,occured on 5/10/2020. 
+
+To view methodology and calculations for rolling averages in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10ZE6mmDmrSa-LYPKPn0hQOVz1uDfzyC-?usp=sharing)
 
 
-
-
-#### Pivot Tables
-![alt text](https://github.com/matthewprk/comparing-baltimore-and-chicago-employment-rates-based-on-parent-income-using-PYTHON/blob/main/Screen%20Shot%202020-11-22%20at%205.53.39%20PM.png)
-
-![alt text](https://github.com/matthewprk/comparing-baltimore-and-chicago-employment-rates-based-on-parent-income-using-PYTHON/blob/main/Screen%20Shot%202020-11-22%20at%205.54.44%20PM.png)
-
-- In Baltimore, employment for people with high-income parents is 78.9%, middle-income parents is 75.0%, and low-income parents is 69.7%.
-- In Chicago, employment for people with high-income parents is 80.2%, middle-income parents is 76.8%, and low-income parents is 72.1%.
-
-Chicago exhibits higher employment rates for each income group. The most notable differences are 1) The 2.4% higher employment for the low-income parent group 2) The smaller employment delta between those with high-income parents and low-income parents. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OydoEiz-Q99r4Tz1ehHyobecL2W-I3VW?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10ZE6mmDmrSa-LYPKPn0hQOVz1uDfzyC-?usp=sharing)
 
 #### Multiple Linear Regression
 * Note that I did not determine the statistical significance of the coefficients. 
