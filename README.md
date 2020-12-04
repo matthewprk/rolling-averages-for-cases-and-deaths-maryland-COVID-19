@@ -24,19 +24,10 @@ Findings from my mini project are meant to be used in conjunction with my group 
 
 ![alt text](https://github.com/matthewprk/rolling-averages-for-deaths-testing-hospitalizations-maryland-COVID-19/blob/main/SMA.png) 
 
-
-## EDIT BELOW HERE
-
-
-
-
-
 #### Plotly Express
-This graph shows the difference in employment rate between Baltimore and Chicago factoring in all parent income groups. 
-- The average employment in Baltimore is 72.0%
-- The average employment in Chicago is 74.5%
-Chicago's employment is 2.5% higher than Baltimore, which is significant given the population differences. 
-![alt text](https://github.com/matthewprk/rolling-averages-for-deaths-testing-hospitalizations-maryland-COVID-19/blob/main/SMA.png) 
+These graphs show the weekly simple moving averages for deaths, tests, and hospitalizations by date in Maryland.
+
+![alt text](https://github.com/matthewprk/rolling-averages-for-deaths-testing-hospitalizations-maryland-COVID-19/blob/main/Screen%20Shot%202020-12-03%20at%2010.48.04%20PM.png) 
 
 
 
