@@ -29,6 +29,8 @@ Findings from my mini project are meant to be used in conjunction with group mem
 #### Plotly Express
 
 These graphs show the weekly simple moving averages for deaths, tests, and hospitalizations by date in Maryland.
+  - Start Date: 3/26/2020
+  - End Date: 12/01/2020
 
 ![alt text](https://github.com/matthewprk/rolling-averages-for-deaths-testing-hospitalizations-maryland-COVID-19/blob/main/Screen%20Shot%202020-12-03%20at%2010.48.04%20PM.png) 
 
